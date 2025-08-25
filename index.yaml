@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-chart-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-25T15:20:55.510219814Z"
+    description: A Helm chart for Kubernetes
+    digest: fd97c39928a623414901f83e4f19e9a2ed7e0c4ec3a8a9adbbd2ae5c2d7e4547
+    name: demo-chart-test
+    type: application
+    urls:
+    - https://github.com/aleksandr-birukov/test-helm-chart-workflow/releases/download/demo-chart-test-0.1.0/demo-chart-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-25T15:20:55.510226126Z"
