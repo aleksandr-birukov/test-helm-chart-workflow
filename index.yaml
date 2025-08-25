@@ -3,6 +3,16 @@ entries:
   chart-test-in-customdir:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-08-25T15:45:30.252112147Z"
+    description: A Helm chart for Kubernetes
+    digest: 022ac81376e221577f91221a8f8a456a372026742f1680a2d91c6a367fd048be
+    name: chart-test-in-customdir
+    type: application
+    urls:
+    - https://github.com/aleksandr-birukov/test-helm-chart-workflow/releases/download/chart-test-in-customdir-0.2.1/chart-test-in-customdir-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-08-25T15:41:48.819791471Z"
     description: A Helm chart for Kubernetes
     digest: 283ff255e86170856f9e2808b8c6f7887c866598880bf758a5caa176769bf968
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/aleksandr-birukov/test-helm-chart-workflow/releases/download/demo-chart-test-0.1.0/demo-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-25T15:41:48.819797553Z"
+generated: "2025-08-25T15:45:30.25212431Z"
